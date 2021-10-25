@@ -56,7 +56,7 @@ The flow chart on the right illustrates how requests are served.
 ### Other Software and Packages
 
 -   [https://github.com/wechaty/wechaty](https://github.com/wechaty/wechaty)
-    -   This is not for browser automation, but I've just included this as I thought it's a really interesting package to create bots on Wechat. It would be useful if DOC expands into China someday!
+    -   This is not for browser automation, but I've just included this as I thought it's a really interesting package to create bots on Wechat.
 -   [https://www.uipath.com/](https://www.uipath.com/)
     -   Very powerful with support for computer vision.
     -   Needs expensive license for unattended bot and orchestrator.
